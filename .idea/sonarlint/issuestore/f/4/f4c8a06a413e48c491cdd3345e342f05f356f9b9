@@ -1,0 +1,33 @@
+
+e
+java:S1192!"HDefine a constant instead of duplicating this literal "success" 4 times.(ùØ8×ºò„¦1
+e
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(²ò‚ê8âºò„¦1
+]
+java:S4684"@Replace this persistent entity with a simple POJO or DTO object.(•Äò‡8äºò„¦1
+l
+java:S4488"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(‰™ıüÿÿÿÿ8äºò„¦1
+L	java:S106 "+Replace this use of System.out by a logger.(õ•×ˆıÿÿÿÿ8åºò„¦1
+]
+java:S4684%"@Replace this persistent entity with a simple POJO or DTO object.(”î‘ó8èºò„¦1
+j
+java:S4488$"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(×úÿşÿÿÿÿ8æºò„¦1
+G	java:S106&"+Replace this use of System.out by a logger.(—ÊÇ½8éºò„¦1
+L	java:S106("+Replace this use of System.out by a logger.(õš‡àúÿÿÿÿ8ëºò„¦1
+b
+java:S4684-"@Replace this persistent entity with a simple POJO or DTO object.(Ğ”ìØøÿÿÿÿ8Ç¹ü„¦1
+g
+java:S4488,"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(åÌ£8éºò„¦1
+L	java:S106/"+Replace this use of System.out by a logger.(Óƒ±¬ùÿÿÿÿ8É¹ü„¦1
+b
+java:S46844"@Replace this persistent entity with a simple POJO or DTO object.(ê«Š•ùÿÿÿÿ8ªÃş„¦1
+k
+java:S44883"NReplace "@RequestMapping(method = RequestMethod.DELETE)" with "@DeleteMapping"(¢„ö8êºò„¦1
+G	java:S1065"+Replace this use of System.out by a logger.(¡Ô‰8Ë¹ü„¦1
+]	java:S1256"<This block of commented-out lines of code should be removed.(»ˆÜûÿÿÿÿ8‹ôŸ ¦1
+n
+java:S1128"QRemove this unused import 'org.springframework.orm.hibernate5.HibernateTemplate'.(è°©å8¦„÷„¦1
+g
+java:S1128	"ERemove this unused import 'org.springframework.stereotype.Component'.(Ş÷Ñ¸ÿÿÿÿÿ8¦„÷„¦1
+^
+java:S1128"<Remove this unused import 'org.springframework.ui.ModelMap'.(ÊÁâºùÿÿÿÿ8¦„÷„¦1
